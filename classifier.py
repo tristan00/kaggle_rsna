@@ -1,5 +1,4 @@
 import pandas as pd
-import tensorflow
 from PIL import Image
 import numpy as np
 import random
